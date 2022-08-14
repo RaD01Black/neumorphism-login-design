@@ -26,7 +26,7 @@ body {
 }
 
 .logo {
-    background: url(./images/abstract-blue-background-blue-paper-pastel-colours-abstract-blue-background-blue-paper-pastel-colours-bright-halftone-154627589.jpg);
+    background: url(/images/logo.jpg);
     width: 100px;
     height: 100px;
     border-radius: 50%;
